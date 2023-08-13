@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146819849202",
+    "project_id": "secondtrytams",
+    "storage_bucket": "secondtrytams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146819849202:android:0a9e8c4e012390eec0296b",
+        "android_client_info": {
+          "package_name": "com.aligokalpkarakus.qrandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146819849202-77jbssc15u2i0a3hqimv3duvglqrg6a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArTmL50vH_jXn4YVRUZDlHsi2ZCdSZS6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146819849202-77jbssc15u2i0a3hqimv3duvglqrg6a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
