@@ -4,7 +4,7 @@ This project is a foundational application developed to understand QR code scann
 
 ## Project Overview
 
-The app was created as a preliminary project to gain experience with QR code scanning and user authentication before developing a more advanced application at Tamsdata. It includes a simple user login system and a QR code reader that utilizes Google’s ML Kit for detecting and reading standard QR code types.
+The app was created as a preliminary project to gain experience with QR code scanning and user authentication before developing a more advanced application at TAMSData. It includes a simple user login system and a QR code reader that utilizes Google’s ML Kit for detecting and reading standard QR code types.
 
 ### Features
 
@@ -21,7 +21,3 @@ The app was created as a preliminary project to gain experience with QR code sca
 
 1. **Login**: Users must log in to access the QR scanning feature.
 2. **Scan QR Codes**: Use the app to scan standard QR codes, which are then processed and displayed in real-time.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
