@@ -1,6 +1,6 @@
 # Basic QR Reader and Login App
 
-This project is a foundational application developed to understand QR code scanning and implement a simple login functionality before advancing to a more complex QR-based product tracking system during my internship at Tamsdata. The app works with standard QR code formats using Google's ML Kit.
+This project is a foundational application developed to understand QR code scanning and implement a simple login functionality before advancing to a more complex QR-based product tracking system during my internship at TAMSData. The app works with standard QR code formats using Google's ML Kit.
 
 ## Project Overview
 
